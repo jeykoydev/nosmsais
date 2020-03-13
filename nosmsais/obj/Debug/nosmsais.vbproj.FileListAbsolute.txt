@@ -1,0 +1,11 @@
+C:\Users\zaldyPc\source\repos\nosmsais\nosmsais\bin\Debug\nosmsais.exe.config
+C:\Users\zaldyPc\source\repos\nosmsais\nosmsais\bin\Debug\nosmsais.exe
+C:\Users\zaldyPc\source\repos\nosmsais\nosmsais\bin\Debug\nosmsais.pdb
+C:\Users\zaldyPc\source\repos\nosmsais\nosmsais\bin\Debug\nosmsais.xml
+C:\Users\zaldyPc\source\repos\nosmsais\nosmsais\obj\Debug\nosmsais.vbprojAssemblyReference.cache
+C:\Users\zaldyPc\source\repos\nosmsais\nosmsais\obj\Debug\nosmsais.LoginForm.resources
+C:\Users\zaldyPc\source\repos\nosmsais\nosmsais\obj\Debug\nosmsais.Resources.resources
+C:\Users\zaldyPc\source\repos\nosmsais\nosmsais\obj\Debug\nosmsais.vbproj.GenerateResource.cache
+C:\Users\zaldyPc\source\repos\nosmsais\nosmsais\obj\Debug\nosmsais.exe
+C:\Users\zaldyPc\source\repos\nosmsais\nosmsais\obj\Debug\nosmsais.xml
+C:\Users\zaldyPc\source\repos\nosmsais\nosmsais\obj\Debug\nosmsais.pdb
